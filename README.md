@@ -81,4 +81,4 @@ npm start
 
 ### Please fork to use it and follow me on github.
 
-### If you want more customized app, please contact [@daniel0130sol](https://t.me/daniel0130sol) in Telegram
+### If you want more customized app, please contact [@dillon0130](https://t.me/dillon0130) in Telegram
